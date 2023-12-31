@@ -1,0 +1,11 @@
+/.idea
+/.vscode
+/build
+/coverage
+/dist
+/node_modules
+/tempdir
+package-lock.json
+yarn.lock
+.env
+!/dist/config.yaml
